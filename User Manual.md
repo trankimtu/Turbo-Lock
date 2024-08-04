@@ -86,7 +86,46 @@ The following information applies to your YL-99’s master code:
 Note: If the master code is lost or forgotten, it may be deleted via a hard reset of the lock. Refer to Section 7.
 
 
+Section 5. User Code Information & Instructions
+5.1 General User Code Information
+The following Information applies to your YL-99’s user codes:
+• All codes can be a maximum of 15 digits including the sequence number. each user code is any number from ‘1-8’. The remainder may be any combination of digits from ‘0-9’
+• To unlock the lock with a user code, enter the code beginning with a number ‘1-8’ and press the ‘#’ key. The lock will emit sound and the green indicator will light up. While sound emits, the lock is unlocked and will return to the locked position immediately after the sound stops.
+• Remember, the door should always be ajar when adding and/or changing codes.
 
+5.2 Setting The User Codes
+Follow the instructions below to set a user code:
+1. Enter the current master code and press the ‘#’ key.
+2. Wait until the beeping sound stops and the blue backlight remains on.
+3. Enter a new user code starting with its sequence number and press the ‘*’ key i.e. the first user code should start with ‘1’, the second should start with ‘2’, and so on. The lock will emit two beeps to 4. If desired, repeat the steps above until all eight user codes ‘1-8’ have been successfully set Each user code must be entered while the blue backlight is on. If the light goes out, you must re-enter the master code to unlock the lock again before proceeding.
+Note: Each user code must be entered while the blue backlight is on. If the light goes out, you must re-enter the master code to unlock the lock again before proceeding.
+
+5.3 Changing The User Codes
+Follow the instructions below to set a user code. When changing a user code, the master code or the
+existing user code must be entered
+codes.
+1. Enter the master code or user code you want to change and press the ‘#’ key.
+2. Wait until the beeping sound stops and the blue backlight remains on.
+3. Enter the new user code and press the ‘*’ key. The lock will emit two beeps to confirm the code has been successfully saved.
+Note: The new user code must have the same sequence number as the prior code i.e. if the previous user code started with ‘1’, the new user code must still begin with ‘1’.
+
+
+5.4 Deleting The User Codes
+To delete an individual user code, follow the instructions below.
+1. Enter the master code and press the ‘#’ key.
+2. Wait until the beeping sound stops and the blue backlight remains on.
+3. Enter ‘0000’ and the sequence number of the code you want to delete and press the ‘*’ key e.g. to delete the user code starting with one, enter ‘00001’. The lock will emit several beeps to confirm the selected user code has been erased.
+4. If desired, repeat the steps above to delete any other user codes.
+Note: If multiple user codes are lost or forgotten or otherwise should be erased, they may be deleted via a soft or hard reset of the lock. Refer to Section 7.
+
+
+Section 6. Passage Code Information & Instructions
+After the passage code is set, the YL-99 may be set to passage mode by entering the passage code. In passage mode, all users can press any key to open the door without requiring a code.
+
+6.1 General Passage Code Information
+The following information applies to your YL-99’s passage code:
+• All codes can be a maximum of 15 digits including the sequence number.
+• The sequence numbers for the user codes are ‘1-8’, therefore you must ensure the each user code is any number from ‘1-8’. The remainder may be any combination of digits from ‘0-9’.
 
 6.3 Deleting The Passage Code
 Follow the instructions below to delete the passage code.
