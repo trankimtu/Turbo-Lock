@@ -61,6 +61,24 @@ The YL-99 electronic lock is capable of storing up to 10 codes: 1 master code, 1
 This user manual will guide you through the functions and installation of your YL-99. If you have any questions or cannot find the information you need in the manual, please contact your place of purchase or our customer service immediately. Before contacting customer service, please have your model number and purchase information ready as any of these may be needed during the call. 
 
 
+Section 3. Battery Information
+The lock requires four ‘AAA’ alkaline batteries which are housed in the internal handle. The lock has a low battery indicator which, when unlocking the door, will sound a continuous beep followed by a single beep.
+New batteries should be installed as soon as possible after receiving any low battery indication. When the notification begins, the lock will only have enough power for approximately 50 times before the batteries are fully depleted. Expected battery life is approximately 365 days with an estimate of 3000 uses per 365 days.
+
+If the batteries are completely dead, you can use the included emergency backup battery pack to power the lock. However, it is recommended not to continue use of the backup longer than necessary; ensure that the batteries in the lock are replaced immediately. Please keep the emergency
+backup battery pack in an accessible area at all times. In the event of a power failure, the battery pack will be needed to unlock the lock.
+
+
+Section 4. Master Code Information & Instructions
+4.1 General Master Code Information
+The following information applies to your YL-99’s master code:
+• The master code is the most important code in the series as it is needed to set up all other codes.
+• All codes can be a maximum of 15 digits including the sequence number.
+• The sequence number for the master code is ‘0’, therefore you must ensure this is the first digit of your code. The remainder may be any combination of digits from ‘0-9’.
+• The default master code is ‘0123’.
+• To unlock the lock with the master code for the first time, enter the code ‘0123’ and press the ‘#’ key. The lock will emit sound and the green indicator will light up. While sound emits, the lock is unlocked and will return to the locked position immediately after the sound stops.
+• Remember, the door should always be ajar when adding and/or changing codes.
+
 
 
 
