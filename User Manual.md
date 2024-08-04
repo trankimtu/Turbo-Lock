@@ -67,7 +67,7 @@ New batteries should be installed as soon as possible after receiving any low ba
 
 If the batteries are completely dead, you can use the included emergency backup battery pack to power the lock. However, it is recommended not to continue use of the backup longer than necessary; ensure that the batteries in the lock are replaced immediately. Please keep the emergency
 backup battery pack in an accessible area at all times. In the event of a power failure, the battery pack will be needed to unlock the lock.
-
+Note: It is highly recommended to insert the batteries only after the lock is fully installed.
 
 Section 4. Master Code Information & Instructions
 4.1 General Master Code Information
@@ -79,7 +79,11 @@ The following information applies to your YL-99’s master code:
 • To unlock the lock with the master code for the first time, enter the code ‘0123’ and press the ‘#’ key. The lock will emit sound and the green indicator will light up. While sound emits, the lock is unlocked and will return to the locked position immediately after the sound stops.
 • Remember, the door should always be ajar when adding and/or changing codes.
 
-
+4.2 Changing The Master Code
+1. Enter the default (‘0123’) or the current master code, and press the ‘#’ key.
+2. Wait until the beeping sound stops but the blue backlight remains on.
+3. Enter a new master code starting with ‘0’ and press the ‘*’ key. The lock will emit two beeps to confirm the code has been successfully saved.
+Note: If the master code is lost or forgotten, it may be deleted via a hard reset of the lock. Refer to Section 7.
 
 
 
